@@ -18,6 +18,6 @@
     "pdfmake": "^0.1.68",
     "request": "^2.88.2",
     "telesignsdk": "^2.2.1",
-    "twilio": "^3.49.1"
+    "twilio": "^5.4.4"
   }
 }
