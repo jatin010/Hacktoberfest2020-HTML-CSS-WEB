@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "pdfmake": "^0.1.68",
     "request": "^2.88.2",
-    "telesignsdk": "^2.2.1",
+    "telesignsdk": "^3.0.0",
     "twilio": "^3.49.1"
   }
 }
